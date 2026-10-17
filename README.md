@@ -1,12 +1,12 @@
 Hi 👋, I'm Chaitanya Sharma
 
-🎯 A passionate Full-Stack Developer & Computer Science Engineering Student from 🇮🇳 India
+🎯 A passionate Full-Stack Developer & Computer Science Engineering Student .
 
 🚀 About Me
 
 💻 Passionate about building modern and scalable web applications using Full-Stack Development.
 
-🏢 Former Software Development Intern at Paytm, gaining experience with AI-assisted development workflows.
+🏢 Former Software Development Intern at Paytm, gaining experience with development workflows.
 
 🌐 Skilled in HTML, CSS, JavaScript, React.js, Node.js, and Express.js.
 
