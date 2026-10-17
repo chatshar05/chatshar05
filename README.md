@@ -1,4 +1,24 @@
+Hi 👋, I'm Chaitanya Sharma
 
+🎯 A passionate Full-Stack Developer & Computer Science Engineering Student from 🇮🇳 India
+
+🚀 About Me
+
+💻 Passionate about building modern and scalable web applications using Full-Stack Development.
+
+🏢 Former Software Development Intern at Paytm, gaining experience with AI-assisted development workflows.
+
+🌐 Skilled in HTML, CSS, JavaScript, React.js, Node.js, and Express.js.
+
+🧠 Practicing Data Structures and Algorithms in C++ to strengthen problem-solving skills.
+
+🚀 Interested in Software Engineering, System Design, and AI-powered applications.
+
+📫 Reach me at: chaitanya.sharma365@gmail.com
+
+⚡ Fun Fact
+
+I enjoy building impactful applications and continuously learning new technologies.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chaitanya-sharma-11b34b2b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanya.sharma365@gmail.com) 
 
